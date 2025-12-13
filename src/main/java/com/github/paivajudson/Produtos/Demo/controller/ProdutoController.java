@@ -15,7 +15,6 @@ public class ProdutoController {
         System.out.println("Produto recebido: " + produto);
         return produto;
     }
-
 }
 
 
